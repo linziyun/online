@@ -1,0 +1,29 @@
+<Updates>
+ <ApplicationName>{AnyApplication}</ApplicationName>
+ <ApplicationVersion>1.0.0</ApplicationVersion>
+ <Checksum>true</Checksum>
+ <PackageUpdate>
+  <Name>A</Name>
+  <DisplayName>A</DisplayName>
+  <Description>Example component A</Description>
+  <Version>1.0.2-1</Version>
+  <ReleaseDate>2015-01-01</ReleaseDate>
+  <Default>true</Default>
+  <UpdateFile CompressedSize="224" OS="Any" UncompressedSize="74"/>
+  <DownloadableArchives>content.7z</DownloadableArchives>
+  <SHA1>7230af00a130f495915e9275cf078ae872929d88</SHA1>
+ </PackageUpdate>
+ <PackageUpdate>
+  <Name>B</Name>
+  <DisplayName>B</DisplayName>
+  <Description>Example component B</Description>
+  <Version>1.0.0-1</Version>
+  <ReleaseDate>2015-01-01</ReleaseDate>
+  <Default>true</Default>
+  <UpdateFile CompressedSize="224" OS="Any" UncompressedSize="74"/>
+  <DownloadableArchives>content.7z</DownloadableArchives>
+  <SHA1>91da348e3cb9dc14c1f96b0adceaedd42ca66124</SHA1>
+ </PackageUpdate>
+ <SHA1>98b59256add2fcbce047d415468eeb2f3375c65b</SHA1>
+ <MetadataName>2021-09-01-1633_meta.7z</MetadataName>
+</Updates>
